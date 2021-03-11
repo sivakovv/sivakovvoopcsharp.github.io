@@ -1,0 +1,26 @@
+C:\Users\Денис\source\repos\lava1\lava1\bin\Debug\netcoreapp3.1\lava1.exe
+C:\Users\Денис\source\repos\lava1\lava1\bin\Debug\netcoreapp3.1\lava1.deps.json
+C:\Users\Денис\source\repos\lava1\lava1\bin\Debug\netcoreapp3.1\lava1.runtimeconfig.json
+C:\Users\Денис\source\repos\lava1\lava1\bin\Debug\netcoreapp3.1\lava1.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\lava1\lava1\bin\Debug\netcoreapp3.1\lava1.dll
+C:\Users\Денис\source\repos\lava1\lava1\bin\Debug\netcoreapp3.1\lava1.pdb
+C:\Users\Денис\source\repos\lava1\lava1\obj\Debug\netcoreapp3.1\lava1.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\lava1\lava1\obj\Debug\netcoreapp3.1\lava1.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\lava1\lava1\obj\Debug\netcoreapp3.1\lava1.AssemblyInfo.cs
+C:\Users\Денис\source\repos\lava1\lava1\obj\Debug\netcoreapp3.1\lava1.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\lava1\lava1\obj\Debug\netcoreapp3.1\lava1.dll
+C:\Users\Денис\source\repos\lava1\lava1\obj\Debug\netcoreapp3.1\lava1.pdb
+C:\Users\Денис\source\repos\lava1\lava1\obj\Debug\netcoreapp3.1\lava1.genruntimeconfig.cache
+D:\Метелап ООП\OOP-c--main\Drib\lava1\bin\Debug\netcoreapp3.1\lava1.exe
+D:\Метелап ООП\OOP-c--main\Drib\lava1\bin\Debug\netcoreapp3.1\lava1.deps.json
+D:\Метелап ООП\OOP-c--main\Drib\lava1\bin\Debug\netcoreapp3.1\lava1.runtimeconfig.json
+D:\Метелап ООП\OOP-c--main\Drib\lava1\bin\Debug\netcoreapp3.1\lava1.runtimeconfig.dev.json
+D:\Метелап ООП\OOP-c--main\Drib\lava1\bin\Debug\netcoreapp3.1\lava1.dll
+D:\Метелап ООП\OOP-c--main\Drib\lava1\bin\Debug\netcoreapp3.1\lava1.pdb
+D:\Метелап ООП\OOP-c--main\Drib\lava1\obj\Debug\netcoreapp3.1\lava1.csprojAssemblyReference.cache
+D:\Метелап ООП\OOP-c--main\Drib\lava1\obj\Debug\netcoreapp3.1\lava1.AssemblyInfoInputs.cache
+D:\Метелап ООП\OOP-c--main\Drib\lava1\obj\Debug\netcoreapp3.1\lava1.AssemblyInfo.cs
+D:\Метелап ООП\OOP-c--main\Drib\lava1\obj\Debug\netcoreapp3.1\lava1.csproj.CoreCompileInputs.cache
+D:\Метелап ООП\OOP-c--main\Drib\lava1\obj\Debug\netcoreapp3.1\lava1.dll
+D:\Метелап ООП\OOP-c--main\Drib\lava1\obj\Debug\netcoreapp3.1\lava1.pdb
+D:\Метелап ООП\OOP-c--main\Drib\lava1\obj\Debug\netcoreapp3.1\lava1.genruntimeconfig.cache
