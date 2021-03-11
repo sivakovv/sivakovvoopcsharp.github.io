@@ -1,0 +1,26 @@
+C:\Users\Денис\source\repos\Stringgg\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.exe
+C:\Users\Денис\source\repos\Stringgg\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.deps.json
+C:\Users\Денис\source\repos\Stringgg\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.runtimeconfig.json
+C:\Users\Денис\source\repos\Stringgg\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\Stringgg\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.dll
+C:\Users\Денис\source\repos\Stringgg\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.pdb
+C:\Users\Денис\source\repos\Stringgg\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\Stringgg\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\Stringgg\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.AssemblyInfo.cs
+C:\Users\Денис\source\repos\Stringgg\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\Stringgg\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.dll
+C:\Users\Денис\source\repos\Stringgg\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.pdb
+C:\Users\Денис\source\repos\Stringgg\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.genruntimeconfig.cache
+D:\Метелап ООП\OOP-c--main\String\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.exe
+D:\Метелап ООП\OOP-c--main\String\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.deps.json
+D:\Метелап ООП\OOP-c--main\String\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.runtimeconfig.json
+D:\Метелап ООП\OOP-c--main\String\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.runtimeconfig.dev.json
+D:\Метелап ООП\OOP-c--main\String\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.dll
+D:\Метелап ООП\OOP-c--main\String\Stringgg\bin\Debug\netcoreapp3.1\Stringgg.pdb
+D:\Метелап ООП\OOP-c--main\String\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.csprojAssemblyReference.cache
+D:\Метелап ООП\OOP-c--main\String\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.AssemblyInfoInputs.cache
+D:\Метелап ООП\OOP-c--main\String\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.AssemblyInfo.cs
+D:\Метелап ООП\OOP-c--main\String\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.csproj.CoreCompileInputs.cache
+D:\Метелап ООП\OOP-c--main\String\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.dll
+D:\Метелап ООП\OOP-c--main\String\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.pdb
+D:\Метелап ООП\OOP-c--main\String\Stringgg\obj\Debug\netcoreapp3.1\Stringgg.genruntimeconfig.cache
