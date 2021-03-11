@@ -1,0 +1,26 @@
+C:\Users\Денис\source\repos\bus\bus\bin\Debug\netcoreapp3.1\bus.exe
+C:\Users\Денис\source\repos\bus\bus\bin\Debug\netcoreapp3.1\bus.deps.json
+C:\Users\Денис\source\repos\bus\bus\bin\Debug\netcoreapp3.1\bus.runtimeconfig.json
+C:\Users\Денис\source\repos\bus\bus\bin\Debug\netcoreapp3.1\bus.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\bus\bus\bin\Debug\netcoreapp3.1\bus.dll
+C:\Users\Денис\source\repos\bus\bus\bin\Debug\netcoreapp3.1\bus.pdb
+C:\Users\Денис\source\repos\bus\bus\obj\Debug\netcoreapp3.1\bus.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\bus\bus\obj\Debug\netcoreapp3.1\bus.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\bus\bus\obj\Debug\netcoreapp3.1\bus.AssemblyInfo.cs
+C:\Users\Денис\source\repos\bus\bus\obj\Debug\netcoreapp3.1\bus.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\bus\bus\obj\Debug\netcoreapp3.1\bus.dll
+C:\Users\Денис\source\repos\bus\bus\obj\Debug\netcoreapp3.1\bus.pdb
+C:\Users\Денис\source\repos\bus\bus\obj\Debug\netcoreapp3.1\bus.genruntimeconfig.cache
+D:\Метелап ООП\OOP-c--main\Bus\bus\bin\Debug\netcoreapp3.1\bus.exe
+D:\Метелап ООП\OOP-c--main\Bus\bus\bin\Debug\netcoreapp3.1\bus.deps.json
+D:\Метелап ООП\OOP-c--main\Bus\bus\bin\Debug\netcoreapp3.1\bus.runtimeconfig.json
+D:\Метелап ООП\OOP-c--main\Bus\bus\bin\Debug\netcoreapp3.1\bus.runtimeconfig.dev.json
+D:\Метелап ООП\OOP-c--main\Bus\bus\bin\Debug\netcoreapp3.1\bus.dll
+D:\Метелап ООП\OOP-c--main\Bus\bus\bin\Debug\netcoreapp3.1\bus.pdb
+D:\Метелап ООП\OOP-c--main\Bus\bus\obj\Debug\netcoreapp3.1\bus.csprojAssemblyReference.cache
+D:\Метелап ООП\OOP-c--main\Bus\bus\obj\Debug\netcoreapp3.1\bus.AssemblyInfoInputs.cache
+D:\Метелап ООП\OOP-c--main\Bus\bus\obj\Debug\netcoreapp3.1\bus.AssemblyInfo.cs
+D:\Метелап ООП\OOP-c--main\Bus\bus\obj\Debug\netcoreapp3.1\bus.csproj.CoreCompileInputs.cache
+D:\Метелап ООП\OOP-c--main\Bus\bus\obj\Debug\netcoreapp3.1\bus.dll
+D:\Метелап ООП\OOP-c--main\Bus\bus\obj\Debug\netcoreapp3.1\bus.pdb
+D:\Метелап ООП\OOP-c--main\Bus\bus\obj\Debug\netcoreapp3.1\bus.genruntimeconfig.cache
