@@ -1,0 +1,26 @@
+C:\Users\Денис\source\repos\sort\sort\bin\Debug\netcoreapp3.1\sort.exe
+C:\Users\Денис\source\repos\sort\sort\bin\Debug\netcoreapp3.1\sort.deps.json
+C:\Users\Денис\source\repos\sort\sort\bin\Debug\netcoreapp3.1\sort.runtimeconfig.json
+C:\Users\Денис\source\repos\sort\sort\bin\Debug\netcoreapp3.1\sort.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\sort\sort\bin\Debug\netcoreapp3.1\sort.dll
+C:\Users\Денис\source\repos\sort\sort\bin\Debug\netcoreapp3.1\sort.pdb
+C:\Users\Денис\source\repos\sort\sort\obj\Debug\netcoreapp3.1\sort.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\sort\sort\obj\Debug\netcoreapp3.1\sort.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\sort\sort\obj\Debug\netcoreapp3.1\sort.AssemblyInfo.cs
+C:\Users\Денис\source\repos\sort\sort\obj\Debug\netcoreapp3.1\sort.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\sort\sort\obj\Debug\netcoreapp3.1\sort.dll
+C:\Users\Денис\source\repos\sort\sort\obj\Debug\netcoreapp3.1\sort.pdb
+C:\Users\Денис\source\repos\sort\sort\obj\Debug\netcoreapp3.1\sort.genruntimeconfig.cache
+D:\Метелап ООП\OOP-c--main\Sort\sort\bin\Debug\netcoreapp3.1\sort.exe
+D:\Метелап ООП\OOP-c--main\Sort\sort\bin\Debug\netcoreapp3.1\sort.deps.json
+D:\Метелап ООП\OOP-c--main\Sort\sort\bin\Debug\netcoreapp3.1\sort.runtimeconfig.json
+D:\Метелап ООП\OOP-c--main\Sort\sort\bin\Debug\netcoreapp3.1\sort.runtimeconfig.dev.json
+D:\Метелап ООП\OOP-c--main\Sort\sort\bin\Debug\netcoreapp3.1\sort.dll
+D:\Метелап ООП\OOP-c--main\Sort\sort\bin\Debug\netcoreapp3.1\sort.pdb
+D:\Метелап ООП\OOP-c--main\Sort\sort\obj\Debug\netcoreapp3.1\sort.csprojAssemblyReference.cache
+D:\Метелап ООП\OOP-c--main\Sort\sort\obj\Debug\netcoreapp3.1\sort.AssemblyInfoInputs.cache
+D:\Метелап ООП\OOP-c--main\Sort\sort\obj\Debug\netcoreapp3.1\sort.AssemblyInfo.cs
+D:\Метелап ООП\OOP-c--main\Sort\sort\obj\Debug\netcoreapp3.1\sort.csproj.CoreCompileInputs.cache
+D:\Метелап ООП\OOP-c--main\Sort\sort\obj\Debug\netcoreapp3.1\sort.dll
+D:\Метелап ООП\OOP-c--main\Sort\sort\obj\Debug\netcoreapp3.1\sort.pdb
+D:\Метелап ООП\OOP-c--main\Sort\sort\obj\Debug\netcoreapp3.1\sort.genruntimeconfig.cache
