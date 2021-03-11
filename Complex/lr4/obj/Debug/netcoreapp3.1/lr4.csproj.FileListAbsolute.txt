@@ -1,0 +1,26 @@
+C:\Users\Денис\source\repos\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.exe
+C:\Users\Денис\source\repos\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.deps.json
+C:\Users\Денис\source\repos\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.runtimeconfig.json
+C:\Users\Денис\source\repos\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.dll
+C:\Users\Денис\source\repos\lr4\lr4\bin\Debug\netcoreapp3.1\lr4.pdb
+C:\Users\Денис\source\repos\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.AssemblyInfo.cs
+C:\Users\Денис\source\repos\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.dll
+C:\Users\Денис\source\repos\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.pdb
+C:\Users\Денис\source\repos\lr4\lr4\obj\Debug\netcoreapp3.1\lr4.genruntimeconfig.cache
+D:\Метелап ООП\OOP-c--main\Complex\lr4\bin\Debug\netcoreapp3.1\lr4.exe
+D:\Метелап ООП\OOP-c--main\Complex\lr4\bin\Debug\netcoreapp3.1\lr4.deps.json
+D:\Метелап ООП\OOP-c--main\Complex\lr4\bin\Debug\netcoreapp3.1\lr4.runtimeconfig.json
+D:\Метелап ООП\OOP-c--main\Complex\lr4\bin\Debug\netcoreapp3.1\lr4.runtimeconfig.dev.json
+D:\Метелап ООП\OOP-c--main\Complex\lr4\bin\Debug\netcoreapp3.1\lr4.dll
+D:\Метелап ООП\OOP-c--main\Complex\lr4\bin\Debug\netcoreapp3.1\lr4.pdb
+D:\Метелап ООП\OOP-c--main\Complex\lr4\obj\Debug\netcoreapp3.1\lr4.csprojAssemblyReference.cache
+D:\Метелап ООП\OOP-c--main\Complex\lr4\obj\Debug\netcoreapp3.1\lr4.AssemblyInfoInputs.cache
+D:\Метелап ООП\OOP-c--main\Complex\lr4\obj\Debug\netcoreapp3.1\lr4.AssemblyInfo.cs
+D:\Метелап ООП\OOP-c--main\Complex\lr4\obj\Debug\netcoreapp3.1\lr4.csproj.CoreCompileInputs.cache
+D:\Метелап ООП\OOP-c--main\Complex\lr4\obj\Debug\netcoreapp3.1\lr4.dll
+D:\Метелап ООП\OOP-c--main\Complex\lr4\obj\Debug\netcoreapp3.1\lr4.pdb
+D:\Метелап ООП\OOP-c--main\Complex\lr4\obj\Debug\netcoreapp3.1\lr4.genruntimeconfig.cache
