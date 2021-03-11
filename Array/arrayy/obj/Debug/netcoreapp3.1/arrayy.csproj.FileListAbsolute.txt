@@ -1,0 +1,26 @@
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.exe
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.deps.json
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.runtimeconfig.json
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.dll
+C:\Users\Денис\source\repos\arrayy\arrayy\bin\Debug\netcoreapp3.1\arrayy.pdb
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.AssemblyInfo.cs
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.dll
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.pdb
+C:\Users\Денис\source\repos\arrayy\arrayy\obj\Debug\netcoreapp3.1\arrayy.genruntimeconfig.cache
+D:\Метелап ООП\OOP-c--main\Array\arrayy\bin\Debug\netcoreapp3.1\arrayy.exe
+D:\Метелап ООП\OOP-c--main\Array\arrayy\bin\Debug\netcoreapp3.1\arrayy.deps.json
+D:\Метелап ООП\OOP-c--main\Array\arrayy\bin\Debug\netcoreapp3.1\arrayy.runtimeconfig.json
+D:\Метелап ООП\OOP-c--main\Array\arrayy\bin\Debug\netcoreapp3.1\arrayy.runtimeconfig.dev.json
+D:\Метелап ООП\OOP-c--main\Array\arrayy\bin\Debug\netcoreapp3.1\arrayy.dll
+D:\Метелап ООП\OOP-c--main\Array\arrayy\bin\Debug\netcoreapp3.1\arrayy.pdb
+D:\Метелап ООП\OOP-c--main\Array\arrayy\obj\Debug\netcoreapp3.1\arrayy.csprojAssemblyReference.cache
+D:\Метелап ООП\OOP-c--main\Array\arrayy\obj\Debug\netcoreapp3.1\arrayy.AssemblyInfoInputs.cache
+D:\Метелап ООП\OOP-c--main\Array\arrayy\obj\Debug\netcoreapp3.1\arrayy.AssemblyInfo.cs
+D:\Метелап ООП\OOP-c--main\Array\arrayy\obj\Debug\netcoreapp3.1\arrayy.csproj.CoreCompileInputs.cache
+D:\Метелап ООП\OOP-c--main\Array\arrayy\obj\Debug\netcoreapp3.1\arrayy.dll
+D:\Метелап ООП\OOP-c--main\Array\arrayy\obj\Debug\netcoreapp3.1\arrayy.pdb
+D:\Метелап ООП\OOP-c--main\Array\arrayy\obj\Debug\netcoreapp3.1\arrayy.genruntimeconfig.cache
